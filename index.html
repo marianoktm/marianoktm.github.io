@@ -13,43 +13,38 @@
     <!-- Custom CSS for Material Design & Dark Theme -->
     <style>
         body {
-            background-color: #121212; /* Dark background */
-            color: #e0e0e0; /* Light text */
+            background-color: #393E46; /* Dark background */
+            color: #EEEEEE; /* Light text */
             font-family: 'Roboto Mono', monospace; /* Monospace font */
         }
 
         h1, h2 {
-            color: #ffab00; /* Material Design Amber for headings */
+            color: #00ADB5; /* Material Design Amber for headings */
         }
 
         a {
-            color: #64ffda; /* Material Design teal for links */
+            color: #00ADB5; /* Material Design teal for links */
         }
 
         .list-group-item {
-            background-color: #1e1e1e; /* Darker card background */
+            background-color: #222831; /* Darker card background */
             border: none; /* Remove border */
             margin-bottom: 10px;
             border-radius: 8px; /* Slightly rounded corners */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Material-style shadow */
-            color: #e0e0e0; /* Light text */
-        }
-
-        .list-group-item:hover {
-            background-color: #2c2c2c; /* Hover effect */
+            color: #EEEEEE; /* Light text */
         }
 
         header {
-            background-color: #1e1e1e; /* Dark header background */
+            background-color: #222831; /* Dark header background */
             padding: 30px 0;
-            border-bottom: 2px solid #ffab00; /* Material Amber bottom border */
+            border-bottom: 2px solid #00ADB5; /* Material Amber bottom border */
         }
 
         footer {
             margin-top: 30px;
             padding: 15px 0;
-            background-color: #1e1e1e;
-            border-top: 2px solid #ffab00;
+            background-color: #222831;
+            border-top: 2px solid #00ADB5;
         }
 
         .container {
@@ -57,7 +52,7 @@
         }
 
         .text-white a {
-            color: #64ffda;
+            color: #00ADB5;
             text-decoration: none;
         }
 
@@ -67,7 +62,7 @@
 
         .icon {
             margin-right: 10px;
-            color: #ffab00; /* Amber color for icons */
+            color: #00ADB5; /* Amber color for icons */
         }
 
         .circular-img {
@@ -76,21 +71,34 @@
             object-fit: cover;
             margin-right: 15px;
         }
+
+        .profile-img {
+            width: 250px; /* Fixed width */
+            height: 300px; /* 3:4 aspect ratio */
+            object-fit: cover;
+            margin-right: 20px;
+        }
     </style>
 </head>
 <body>
-<header class="text-left">
+
+<header>
     <div class="container">
         <section class="mt-5">
-            <h1>Mariano Aponte</h1>
-            <h5>Computer Science Graduate Student</h5>
-            <p></p>
-            <p><i class="fas fa-birthday-cake icon"></i>2001</p>
-            <p><i class="fas fa-map-marker-alt icon"></i>Castellammare di Stabia, Naples, Italy</p>
-            <p><i class="fas fa-phone icon"></i>on request</p>
-            <p><i class="fas fa-envelope icon"></i>on request</p>
-            <p><i class="fab fa-linkedin icon"></i><a href="https://www.linkedin.com/in/marianoktm" class="me-3">Mariano Aponte</a></p>
-            <p><i class="fab fa-github icon"></i><a href="https://github.com/marianoktm">marianoktm</a></p>
+            <div class="d-flex align-items-center">
+                <img src="imgs/me.jpeg" class="profile-img rounded">
+                <div>
+                    <h1>Mariano Aponte</h1>
+                    <h5>Computer Science Graduate Student</h5>
+                    <p><i class="fas fa-birthday-cake icon"></i>2001</p>
+                    <p><i class="fas fa-map-marker-alt icon"></i>Castellammare di Stabia, Naples, Italy</p>
+                    <p><i class="fas fa-phone icon"></i>on request</p>
+                    <p><i class="fas fa-envelope icon"></i>on request</p>
+                    <p><i class="fab fa-linkedin icon"></i><a href="https://www.linkedin.com/in/marianoktm" class="me-3">Mariano Aponte</a></p>
+                    <p><i class="fab fa-github icon"></i><a href="https://github.com/marianoktm">marianoktm</a></p>
+                    <p><i class="fab fa-orcid icon"></i><a href="https://orcid.org/0009-0005-7883-4931">0009-0005-7883-4931</a></p>
+                </div>
+            </div>
         </section>
     </div>
 </header>
@@ -104,7 +112,14 @@
                 <div>
                     <strong>HPC Research and Software Development Intern</strong><br>
                     <em>HPSC Smart Lab, University of Naples Parthenope - Naples, Italy</em><br>
-                    September 2023 - January 2024
+                    September 2023 - January 2024<br><br>
+                    <ul>
+                        <li>Contributed to the GVirtuS project, a GPGPU virtualization service for HPC, edge, and cloud computing environments.</li>
+                        <li>Developed a novel RDMA and Infiniband-based communicator, improving virtualized application performance by up to 50%.</li>
+                        <li>Enhanced code maintainability by implementing bug fixes and refactoring.</li>
+                        <li>Deployed middleware solutions on HPC infrastructure.</li>
+                        <li>Authored a paper based on this work, discussed at PPAM 2024 international conference.</li>
+                    </ul>
                 </div>
             </li>
         </ul>
@@ -116,9 +131,12 @@
             <li class="list-group-item d-flex align-items-center">
                 <img src="imgs/unisa_logo_trim.png" class="rounded-circle circular-img">
                 <div>
-                    <strong>Masters of Science in Computer Science</strong>, focus on Information Security<br>
+                    <strong>Masters of Science in Computer Science</strong>, focus on Cybersecurity<br>
                     <em>University of Salerno - Salerno, Italy</em><br>
-                    September 2024 - Present
+                    September 2024 - Present<br><br>
+                    <ul>
+                        <li>Studies on Cybersecurity, Information Security, Cryptography, Secure Programming, Penetration Testing and Ethical Hacking, Digital Forensics, IoT Security.</li>
+                    </ul>
                 </div>
             </li>
             <li class="list-group-item d-flex align-items-center">
@@ -126,7 +144,12 @@
                 <div>
                     <strong>Bachelors of Science in Computer Science</strong><br>
                     <em>University of Naples Parthenope - Naples, Italy</em><br>
-                    September 2019 - July 2024
+                    September 2019 - July 2024<br><br>
+                    <ul>
+                        <li>Final grade of 104/110.</li>
+                        <li>Thesis titled "GPGPU virtualization: design, development and evaluation of HPC, IoT and edge computing middleware".</li>
+                        <li>Studies on Computer Architectures, Procedural and Object Oriented Programming, Algorithms and Data Structures, Databases, Scientific Computing, Operating Systems, Software Engineering and HCI, Networking, Parallel and Distributed Computation, Image Processing.</li>
+                    </ul>
                 </div>
             </li>
             <li class="list-group-item d-flex align-items-center">
@@ -134,29 +157,39 @@
                 <div>
                     <strong>High School Diploma in Business Administration</strong><br>
                     <em>Technical Institute Luigi Sturzo - Castellammare di Stabia, Italy</em><br>
-                    September 2014 - July 2019
+                    September 2014 - July 2019<br><br>
+                    <ul>
+                        <li>Final grade of 100/100.</li>
+                        <li>Studies on Business Management, Financial Accounting, Micro and Macroeconomics, Laws.</li>
+                    </ul>
                 </div>
             </li>
         </ul>
     </section>
 
     <section class="mt-5">
-        <h2>Certifications and Activities</h2>
+        <h2>Other Formative Activities</h2>
         <ul class="list-group">
             <li class="list-group-item d-flex align-items-center">
                 <img src="imgs/ios_foundation_logo.png" class="rounded-circle circular-img">
                 <div>
                     <strong>iOS Foundation Program: iOS Essentials</strong><br>
                     <em>University of Naples Parthenope - Naples, Italy</em><br>
-                    September 2023 - November 2023
+                    September 2023 - November 2023<br><br>
+                    <ul>
+                        <li>Designed and developed an iOS app prototype in Swift to assist Alzheimer's patients in practicing reminiscence therapy.</li>
+                    </ul>
                 </div>
             </li>
             <li class="list-group-item d-flex align-items-center">
-                <img src="imgs/game_jam_2023.jpeg" class="rounded-circle circular-img">
+                <img src="imgs/gamejam_new.jpg" class="rounded-circle circular-img">
                 <div>
                     <strong>Parthenope Game Jam 2023</strong><br>
                     <em>University of Naples Parthenope - Naples, Italy</em><br>
-                    September 2023
+                    September 2023<br><br>
+                    <ul>
+                        <li>Developed a video game in Unity using C# within 72 hours, based on the theme 'equilibrium,' and received the 'Relevance to the Theme' award.</li>
+                    </ul>
                 </div>
             </li>
             <li class="list-group-item d-flex align-items-center">
@@ -164,7 +197,10 @@
                 <div>
                     <strong>JA Italia: Impresa in Azione</strong><br>
                     <em>Technical Institute Luigi Sturzo - Castellammare di Stabia, Italy</em><br>
-                    October 2017 - May 2018
+                    October 2017 - May 2018<br><br>
+                    <ul>
+                        <li>Founded a micro-production company to compete in a regional teen competition, specializing in the production of bags equipped with internal LED lighting to improve visibility when searching for items.</li>
+                    </ul>
                 </div>
             </li>
         </ul>
@@ -177,8 +213,13 @@
                 <img src="imgs/gvirtus_logo.png" class="rounded-circle circular-img">
                 <div>
                     <strong>RDMACommunicator for GVirtuS</strong><br>
-                    <em>C, C++, Infiniband, RDMA, TCP/IP, CUDA, Linux</em><br>
-                    <i class="fab fa-github icon"></i><a href="https://github.com/gvirtus/GVirtuS">Check on GitHub!</a>
+                    2024<br><br>
+                    <ul>
+                        <li>C, C++, Infiniband, RDMA, TCP/IP, CUDA, Linux</li>
+                        <li><i class="fab fa-github icon"></i><a href="https://github.com/gvirtus/GVirtuS">Check on GitHub!</a></li>
+                    </ul>
+
+
                 </div>
             </li>
         </ul>
@@ -190,13 +231,13 @@
             <li class="list-group-item">
                 "Boosting GPGPU virtualization and multiplexing with RDMA communication"<br>
                 <em>15th International Conference on Parallel Processing & Applied Mathematics (PPAM 2024) - Ostrava, Czech Republic</em><br>
-                September 2024
+                8-11 September 2024
             </li>
         </ul>
     </section>
 </div>
 <footer class="text-center">
-    <p>Last update: 5 September 2024</p>
+    <p>Last update: 9 September 2024</p>
 </footer>
 
 <!-- Bootstrap JS -->
