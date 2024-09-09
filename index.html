@@ -27,6 +27,8 @@
         }
 
         .list-group-item {
+            display: flex;
+            align-items: center;
             background-color: #2A2E34; /* Darker card background */
             border: none; /* Remove border */
             margin-bottom: 10px;
@@ -70,14 +72,19 @@
             height: 80px;
             object-fit: cover;
             margin-right: 15px;
+
         }
 
-        .profile-img {
-            width: 250px; /* Fixed width */
-            height: 300px; /* 3:4 aspect ratio */
-            object-fit: cover;
-            margin-right: 20px;
+        @media (max-width: 768px) {
+            .list-group-item {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .circular-img {
+                margin-bottom: 25px;
+            }
         }
+
     </style>
 </head>
 <body>
@@ -228,12 +235,11 @@
         <h2>Conferences</h2>
         <ul class="list-group">
             <li class="list-group-item">
-                "Boosting GPGPU virtualization and multiplexing with RDMA communication"<br>
-                <em>15th International Conference on Parallel Processing & Applied Mathematics (PPAM 2024) - Ostrava, Czech Republic</em><br>
-                8-11 September 2024
+                "Boosting GPGPU virtualization and multiplexing with RDMA communication"<br> 15th International Conference on Parallel Processing & Applied Mathematics (PPAM 2024) - Ostrava, Czech Republic</em><br>8-11 September 2024
             </li>
         </ul>
     </section>
+
 </div>
 <footer class="text-center">
     <p>Last update: 9 September 2024</p>
