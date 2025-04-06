@@ -25,10 +25,10 @@
 - Updated documentation for better clarity.
 - Tech Stack: C/C++, TCP/IP, RDMA, Infiniband, Linux.
 
-## Interesting University Projects
+## University Portfolio
 **[Arduino-NFT-PUF](https://github.com/marianoktm/arduino-nft-puf)** (2025)
 - Implemented an efficient and secure approach at IoT devices fingerprinting and ownership through the combination of SRAM-PUF and Ethereum NFTs.
-- Tech Stack: C, HTML, CSS, Javascript, Web3.js, Solidity, Hardhat.
+- Tech Stack: C, Web3.js, Solidity, Hardhat.
 
 **[Twitter 2](https://github.com/marianoktm/PROG3-Uniparthenope)** (2022)
 - Designed and developed an easily maintainable Java demonstrative application through the implementation of SOLID Principles and Design Patterns.
@@ -36,9 +36,10 @@
   
 **[Vaccination Database](https://github.com/marianoktm/BD-Uniparthenope)** (2021)
 - Designed and implemented an Oracle Database to manage COVID vaccinations.
-- Tech Stack: Oracle Database, PL/SQL.
+- Tech Stack: Oracle Database (PL/SQL).
 
 ## Conference Talks and Publications
+- Aponte, M. et al. (2025). Boosting GPGPU Virtualization and Multiplexing with RDMA Communication. In: Wyrzykowski, R., Dongarra, J., Deelman, E., Karczewski, K. (eds) Parallel Processing and Applied Mathematics. PPAM 2024. Lecture Notes in Computer Science, vol 15580. Springer, Cham. https://doi.org/10.1007/978-3-031-85700-3_14
 - "Boosting GPGPU virtualization and multiplexing with RDMA communication" - 15th International Conference on Parallel Processing & Applied Mathematics ([PPAM 2024](https://ppam.edu.pl/)), September 8-11, 2024, Ostrava, Czech Republic.
 
 ## Certifications & Achievements
@@ -47,9 +48,8 @@
 - **Impresa in Azione**, JA Italia (2018)
 
 ## Main Interests
-- Ethical Hacking and Digital Forensics
+- Ethical Hacking
 - Cryptography
-- Network Security
 - High Performance Computing
   
 ## Spoken Languages
