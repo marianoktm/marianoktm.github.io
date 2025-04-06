@@ -5,7 +5,7 @@
 **HPC Research Intern** @ HPSC Smart Lab, Parthenope University of Naples (September 2023 - January 2024)
 - Enhanced up to 50% the performance of a European-funded research project on GPGPU virtualization ([GVirtuS](https://github.com/gvirtus/GVirtuS)) through the development of a novel communicator based on RDMA and Infiniband technologies.
 - Improved code maintainability by refactoring and bug fixing.
-- Authored a [BSc thesis](https://github.com/marianoktm/BSc-Thesis) and a paper based on this work, discussed at [PPAM 2024](https://ppam.edu.pl/).
+- Authored a [BSc thesis](https://github.com/marianoktm/BSc-Thesis) and a [paper](https://doi.org/10.1007/978-3-031-85700-3_14) based on this work.
 
 ## Education
 **Master's of Science in Cybersecurity** @ University of Salerno (September 2024 - Present)
