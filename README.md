@@ -39,7 +39,7 @@
 - Tech Stack: Oracle Database (PL/SQL).
 
 ## Conference Talks and Publications
-- Aponte, M. et al. (2025). Boosting GPGPU Virtualization and Multiplexing with RDMA Communication. In: Wyrzykowski, R., Dongarra, J., Deelman, E., Karczewski, K. (eds) Parallel Processing and Applied Mathematics. PPAM 2024. Lecture Notes in Computer Science, vol 15580. Springer, Cham. https://doi.org/10.1007/978-3-031-85700-3_14
+- Aponte, M. et al. (2025). Boosting GPGPU Virtualization and Multiplexing with RDMA Communication. In: Wyrzykowski, R., Dongarra, J., Deelman, E., Karczewski, K. (eds) Parallel Processing and Applied Mathematics. PPAM 2024. Lecture Notes in Computer Science, vol 15580. Springer, Cham. [https://doi.org/10.1007/978-3-031-85700-3_14](https://doi.org/10.1007/978-3-031-85700-3_14).
 - "Boosting GPGPU virtualization and multiplexing with RDMA communication" - 15th International Conference on Parallel Processing & Applied Mathematics ([PPAM 2024](https://ppam.edu.pl/)), September 8-11, 2024, Ostrava, Czech Republic.
 
 ## Certifications & Achievements
