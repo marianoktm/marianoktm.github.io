@@ -9,21 +9,25 @@
 
 ## Education
 **Master's of Science in Cybersecurity** @ University of Salerno (September 2024 - Present)
-- Relevant coursework: Modern Cryptography and Cryptanalysis, Penetration Testing and Ethical Hacking, Digital Forensics, Secure Programming, Data Security and Blockchains, IoT Security.
+- Relevant coursework: Modern Cryptography and Cryptanalysis, Penetration Testing and Ethical Hacking, Digital Forensics, Secure Programming, NoSQL Databases Design, Data Security with Blockchains, IoT Security.
 
 **Bachelor's of Science in Computer Science** @ Parthenope University of Naples (September 2019 - April 2024)
 - Thesis: GPGPU virtualization: design, development and evaluation of HPC, IoT and edge computing middleware ([read here](https://github.com/marianoktm/BSc-Thesis))
-- Relevant coursework: Computer Architectures, Programming Principles, Algorithm Design and Analysis, Database Design, Operating Systems, Software Engineering, Networking, Parallel Computing, Image Processing.
+- Relevant coursework: Computer Architectures, Algorithms and Data Structures Design and Analysis, Relational Databases Design, Operating Systems, Software Engineering, Networking, Parallel and Distributed Computing, Image Processing.
 
 **High School Diploma in Business Administration** @ IT Luigi Sturzo (September 2014 - July 2019)
 - Relevant coursework: Financial Accounting, Micro and Macroeconomics, Laws.
 
 ## Contributions
-**[GPU Virtualization Service (GVirtuS)](https://github.com/gvirtus/GVirtuS)** (2023 - 2024)
+**[GPU Virtualization Service (GVirtuS)](https://github.com/gvirtus/GVirtuS)** (2023 - 2025)
 - Enhanced up to 50% the performances of virtualized CUDA applications through the research, development and testing of a novel HPC communicator based on RDMA and Infiniband.
 - Improved code maintainability by refactoring and bug fixing.
 - Updated documentation for better clarity.
 - Tech Stack: C/C++, TCP/IP, RDMA, Infiniband, Linux.
+
+## Conference Talks and Publications
+- Aponte, M. et al. (2025). Boosting GPGPU Virtualization and Multiplexing with RDMA Communication. In: Wyrzykowski, R., Dongarra, J., Deelman, E., Karczewski, K. (eds) Parallel Processing and Applied Mathematics. PPAM 2024. Lecture Notes in Computer Science, vol 15580. Springer, Cham. [https://doi.org/10.1007/978-3-031-85700-3_14](https://doi.org/10.1007/978-3-031-85700-3_14).
+- "Boosting GPGPU virtualization and multiplexing with RDMA communication" - 15th International Conference on Parallel Processing & Applied Mathematics ([PPAM 2024](https://ppam.edu.pl/)), September 8-11, 2024, Ostrava, Czech Republic.
 
 ## University Portfolio
 **[Arduino-NFT-PUF](https://github.com/marianoktm/arduino-nft-puf)** (2025)
@@ -37,10 +41,6 @@
 **[Vaccination Database](https://github.com/marianoktm/BD-Uniparthenope)** (2021)
 - Designed and implemented an Oracle Database to manage COVID vaccinations.
 - Tech Stack: Oracle Database (PL/SQL).
-
-## Conference Talks and Publications
-- Aponte, M. et al. (2025). Boosting GPGPU Virtualization and Multiplexing with RDMA Communication. In: Wyrzykowski, R., Dongarra, J., Deelman, E., Karczewski, K. (eds) Parallel Processing and Applied Mathematics. PPAM 2024. Lecture Notes in Computer Science, vol 15580. Springer, Cham. [https://doi.org/10.1007/978-3-031-85700-3_14](https://doi.org/10.1007/978-3-031-85700-3_14).
-- "Boosting GPGPU virtualization and multiplexing with RDMA communication" - 15th International Conference on Parallel Processing & Applied Mathematics ([PPAM 2024](https://ppam.edu.pl/)), September 8-11, 2024, Ostrava, Czech Republic.
 
 ## Certifications & Achievements
 - **iOS Foundation Program - iOS Essentials**, Parthenope University of Naples (2023)
