@@ -18,7 +18,7 @@
 **High School Diploma in Business Administration** @ IT Luigi Sturzo (September 2014 - July 2019)
 - Relevant coursework: Financial Accounting, Micro and Macroeconomics, Laws.
 
-## Contributions
+## Open Source Contributions
 **[GPU Virtualization Service (GVirtuS)](https://github.com/gvirtus/GVirtuS)** (2023 - 2025)
 - Enhanced up to 50% the performances of virtualized CUDA applications through the research, development and testing of a novel HPC communicator based on RDMA and Infiniband.
 - Improved code maintainability by refactoring and bug fixing.
