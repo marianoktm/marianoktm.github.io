@@ -5,7 +5,9 @@ Author of a peer-reviewed publication on CUDA virtualization performance optimiz
 
 Born in 2001. Based in Castellammare di Stabia, Campania, Italy. 
 
-To get in touch please text me on [LinkedIn](http://linkedin.com/in/marianoktm).
+Find me on:
+- [GitHub](http://github.com/marianoktm)
+- [LinkedIn](http://linkedin.com/in/marianoktm)
 
 ## Relevant Experience
 **HPC Research Intern** @ HPSC Smart Lab, Parthenope University of Naples (September 2023 - January 2024)
