@@ -1,85 +1,102 @@
 # Mariano Aponte
-**MSc student in Cybersecurity** at Unisa and BSc in Computer Science from Uniparthenope with research experience in HPC systems, GPU virtualization, RDMA networking, and Linux systems programming. 
+M.Sc. Computer Science student specializing in Cybersecurity with a background in High-Performance Computing (HPC) and systems programming. Author of peer-reviewed research published in the LNCS series. Experienced in low-level software development, RDMA/InfiniBand networking, Linux environment, and database systems. Passionate about research, open-source development, and the intersection of cybersecurity and high-performance infrastructures.
 
-Author of a peer-reviewed publication on CUDA virtualization performance optimization. Interested in systems security and high-performance computing.
-
-Born in 2001. Based in Castellammare di Stabia, Campania, Italy. 
-
-Find me on:
-- [GitHub](http://github.com/marianoktm)
-- [LinkedIn](http://linkedin.com/in/marianoktm)
-
-## Relevant Experience
-**HPC Research Intern** @ HPSC Smart Lab, Parthenope University of Naples (September 2023 - January 2024)
-- Enhanced up to 50% the performance of a European-funded research project on GPGPU virtualization ([GVirtuS](https://github.com/gvirtus/GVirtuS)) through the development of a novel communicator based on RDMA and Infiniband technologies.
-- Improved code maintainability by refactoring and bug fixing.
-- Authored a [BSc thesis](https://github.com/marianoktm/BSc-Thesis) and a [paper](https://doi.org/10.1007/978-3-031-85700-3_14) based on this work.
-
-## Open Source Contributions
-**[GPU Virtualization Service (GVirtuS)](https://github.com/gvirtus/GVirtuS)** (2023 - 2025)
-- Enhanced up to 50% the performances of virtualized CUDA applications through the research, development and testing of a novel HPC communicator based on RDMA and Infiniband.
-- Improved code maintainability by refactoring and bug fixing.
-- Updated documentation for better clarity.
-- Tech Stack: C/C++, TCP/IP, RDMA, Infiniband, Linux.
-
-## Conference Talks and Publications
-- Aponte, M., Mellone, G., De Vita, C. G., Salvi, G., Gaikwad, N. B., & Kosta, S. (2025). Boosting GPGPU Virtualization and Multiplexing with RDMA Communication. In Lecture notes in computer science (pp. 193–206). [https://doi.org/10.1007/978-3-031-85700-3_14](https://doi.org/10.1007/978-3-031-85700-3_14).
-- "Boosting GPGPU virtualization and multiplexing with RDMA communication" - 15th International Conference on Parallel Processing & Applied Mathematics ([PPAM 2024](https://ppam.edu.pl/)), September 8-11, 2024, Ostrava, Czech Republic.
-
-## University Portfolio
-**[Arduino-NFT-PUF](https://github.com/marianoktm/arduino-nft-puf)** (2025)
-- Developed an IoT device identity system using SRAM-PUFs and Ethereum NFTs for hardware fingerprinting and ownership verification.
-- Implemented smart contract integration for secure device registration and authentication.
-- Technologies: C, Solidity, Web3.js, Hardhat
-
-**[Twitter 2](https://github.com/marianoktm/PROG3-Uniparthenope)** (2022)
-- Designed and developed a Java desktop application following SOLID principles and object-oriented design patterns.
-- Implemented a modular and maintainable architecture.
-- Technologies: Java, JavaFX, MySQL
-  
-**[COVID-19 Vaccination Database](https://github.com/marianoktm/BD-Uniparthenope)** (2021)
-- Designed and implemented an Oracle database system for COVID-19 vaccination management.
-- Developed PL/SQL procedures, relational schemas, and database constraints.
-- Technologies: Oracle Database, PL/SQL
+## Contact Information
+- **Born in:** 2001
+- **Based in:** Castellammare di Stabia (NA), Italy
+- **GitHub:** [github.com/marianoktm](https://github.com/marianoktm)
+- **LinkedIn:** [linkedin.com/in/marianoktm](https://linkedin.com/in/marianoktm)
+- **ORCID:** 0009-0005-7883-4931
 
 ## Education
-**Master's of Science in Computer Science, Curriculum of Cybersecurity** @ University of Salerno (September 2024 - Present)
-- Current Grade: 
-- Relevant coursework: Modern Cryptography and Cryptanalysis, Cybersecurity, Penetration Testing and Ethical Hacking, Advanced Algorithm Design and Analysis, Digital Forensics, Secure Programming, NoSQL Databases Design, Data Security with Blockchains, IoT Security.
 
-**Bachelor's of Science in Computer Science** @ Parthenope University of Naples (September 2019 - April 2024)
-- Final Grade: 104/110
-- Thesis: GPGPU virtualization: design, development and evaluation of HPC, IoT and edge computing middleware ([read here](https://github.com/marianoktm/BSc-Thesis))
-- Relevant coursework: Computer Architectures, Procedural and Object Oriented Programming, Algorithms and Data Structures Design and Analysis, Relational Databases Design, Operating Systems, Software Engineering, Networking, Parallel and Distributed Computing, Image Processing.
+### M.Sc. in Computer Science (LM-18), Cybersecurity Curriculum
+**University of Salerno** | *September 2024 - Present*
+- **Current Weighted Average:** 28.158/30 over 8/12 completed exams.
+- **Relevant Coursework:** Cryptography, Advanced Algorithms, Penetration Testing and Ethical Hacking, Digital Forensics, Data Security, IoT Security, Non-relational Databases.
 
-**High School Diploma in Business Administration** @ IT Luigi Sturzo (September 2014 - July 2019)
-- Relevant coursework: Financial Accounting, Micro and Macroeconomics, Laws.
+### B.Sc. in Computer Science (L-31)
+**University of Naples "Parthenope"** | *September 2019 - April 2024*
+- **Final Grade:** 104/110.
+- **Bachelor Thesis:** GPGPU Virtualization: Design, Development and Evaluation of HPC, IoT and Edge Computing Middleware ([Read here](https://github.com/marianoktm/BSc-Thesis)).
+- **Relevant Coursework:** Operating Systems, Networking, Software Engineering, Relational Databases, Parallel and Distributed Computing, Algorithms and Data Structures, Image Processing.
+
+### Diploma in Administration, Finance and Marketing
+**Istituto Tecnico Statale "Luigi Sturzo"** | *September 2014 - July 2019*
+- **Final Grade:** 100/100.
+- **Relevant Coursework:** Business Administration, Law, Commercial English, Commercial French.
+
+## Research Experience
+
+### Research Intern
+**HPSC Smart Lab, University of Naples Parthenope** | *September 2023 - January 2024*
+- Curricular internship of 300 hours.
+- Conducted research activity on performance optimization of GVirtus, an open-source GPU virtualization middleware for cloud, edge, and IoT environments.
+- Designed and implemented a new communication layer based on RDMA and InfiniBand.
+- Achieved virtualized GPGPU performance improvements of up to 50% compared to TCP-based communication, that led to a peer-reviewed scientific publication as first author.
+- Collaborated with PhD candidates and international researchers and provided technical guidance on the GVirtuS codebase to contribute to ongoing research activities and future developments.
+
+## Conference Talks and Publications
+1. Aponte, M., Mellone, G., De Vita, C. G., Salvi, G., Gaikwad, N. B., & Kosta, S. (2025). **Boosting GPGPU Virtualization and Multiplexing with RDMA Communication.** In Lecture Notes in Computer Science, pp. 193-206. DOI: [https://doi.org/10.1007/978-3-031-85700-3_14](https://doi.org/10.1007/978-3-031-85700-3_14).
+2. **"Boosting GPGPU virtualization and multiplexing with RDMA communication"** - 15th International Conference on Parallel Processing & Applied Mathematics (PPAM 2024), September 8-11, 2024, Ostrava, Czech Republic.
 
 ## Technical Skills
-### Programming Languages
-C, C++, Python, Java, JavaScript, Solidity, Go
+- **Programming & Markup:** C ★★★★★ (OpenMP, libibverbs, RDMA CM, POSIX API, glibc, pthreads, Berkeley Sockets), C++ ★★★★★ (STL, OpenCV, CUDA), Java ★★★★☆ (JavaFX, JDBC, Gson), Python ★★★☆☆ (Flask), JavaScript, Solidity ★★☆☆☆ (OpenZeppelin), HTML & CSS ★★★★★, LaTeX ★★★★★
+- **OS & Databases:** Linux ★★★★★ (CentOS, Mint, Manjaro), Windows ★★★★★, macOS ★★★★★, Oracle PL/SQL ★★★☆☆, MySQL ★★★☆☆, MongoDB ★★☆☆☆
+- **Tools & Software:** GitHub ★★★★★, IntelliJ IDEA ★★★☆☆, CLion ★★★★☆, PyCharm ★★☆☆☆, DataGrip ★★★★★, Arduino IDE ★☆☆☆☆, VirtualBox ★★★★★, Overleaf ★★★☆☆, Dia Diagram Editor ★★★★★, Hardhat ★★★★★, Ableton Live 11 ★☆☆☆☆, Reaper ★★☆☆☆, OBS Studio ★★☆☆☆, DaVinci Resolve ★☆☆☆☆, ASIO4ALL ★☆☆☆☆
 
-### Systems and HPC
-Linux, CUDA, RDMA, Infiniband, POSIX Threads, OpenMP, TCP/IP, GPU Virtualization
+## Open-Source Contributions
 
-### Security
-Cryptography, Penetration Testing, Secure Programming, Blockchain Security, Digital Forensics
+### GVirtuS - GPU Virtualization Service (2023-2025)
+- **GitHub:** [https://github.com/gvirtus/GVirtus](https://github.com/gvirtus/GVirtus)
+- Contributed to the development and maintenance of the GVirtuS middleware. Designed and implemented an RDMA-based communication subsystem.
+- Increased performance of virtualized CUDA applications by up to 50%. Refactored legacy code, fixed bugs, and improved maintainability.
+- Updated technical documentation.
+- **Technologies:** C/C++, CUDA, libibverbs, RDMA CM InfiniBand, Linux.
 
-### Databases
-Oracle PL/SQL, MySQL, MongoDB
+## University Projects
 
-### Tools
-Git, VirtualBox, Overleaf, JetBrains IDEs, Hardhat
+### Arduino-NFT-PUF (2025)
+- **GitHub:** [https://github.com/marianoktm/arduino-nft-puf](https://github.com/marianoktm/arduino-nft-puf)
+- Developed an IoT identity and ownership verification system using SRAM-based Physical Unclonable Functions (PUFs) and Ethereum NFTs.
+- **Technologies:** C, Arduino, Solidity, Web3.js, Hardhat.
 
-## Spoken Languages (CERF Self-assessment)
-- **Italian:** Native
-- **English:** C1
-- **French:** A2
+### Twitter 2 (2022)
+- **GitHub:** [https://github.com/marianoktm/PROG3-Uniparthenope](https://github.com/marianoktm/PROG3-Uniparthenope)
+- Desktop social-network application developed according to SOLID principles and object-oriented design patterns.
+- **Technologies:** Java, JavaFX, MySQL.
+
+### WeGetVax (2022)
+- **GitHub:** [https://github.com/marianoktm/IDS-IUM-Uniparthenope](https://github.com/marianoktm/IDS-IUM-Uniparthenope)
+- Software engineering project focused on the design of a COVID-19 vaccination management system, with full Requirements Engineering, RAD and SDD Documentation, UML Modeling, Database Design, and UI/UX Prototyping.
+
+### COVID-19 Vaccination Database (2021)
+- **GitHub:** [https://github.com/marianoktm/BD-Uniparthenope](https://github.com/marianoktm/BD-Uniparthenope)
+- Designed and implemented an Oracle-based vaccination management platform, with a focus on Relational Schema Design, Database Constraints PL/SQL Procedures, and Data Integrity Management.
+- **Technologies:** Oracle Databases, PL/SQL.
+
+## Languages (CEFR Self-Assessment)
+
+| Language | Listening | Reading | Spoken Interaction | Spoken Production | Writing |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Italian** | Native | Native | Native | Native | Native |
+| **English** | C1 | C2 | C1 | C1 | C1 |
+| **French** | A2 | B1 | A1 | A1 | A2 |
 
 ## Other Activities
 - **iOS Foundation Program - iOS Essentials**, Parthenope University of Naples (2023)
 - **Parthenope Game Jam 2023**, Parthenope University of Naples (2023)
 - **Impresa in Azione**, JA Italia (2018)
+
+## Volunteering Experiences
+
+### Social Guitar Project
+*2014-2017 and 2025 - Present*
+- **Role:** Guitar Player, Composer, and Mentor
+- Live concert performances as a guitar player.
+- Mentoring and training of young guitarists.
+- Musical arrangements for live music events.
+
 
 ## Main Interests
 - Penetration Testing and Ethical Hacking
@@ -88,4 +105,4 @@ Git, VirtualBox, Overleaf, JetBrains IDEs, Hardhat
   
 ---
 
-Last update: 12 May 2026
+Last update: 09 Jun 2026
