@@ -11,7 +11,7 @@ M.Sc. Computer Science student specializing in Cybersecurity with a background i
 ## Education
 
 ### M.Sc. in Computer Science (LM-18), Cybersecurity Curriculum
-**University of Salerno** | *September 2024 - Present*
+**University of Salerno** | *September 2024 - (expected February 2027)*
 - **Current Weighted Average:** 28.148/30 over 11/12 completed exams.
 - **Relevant Coursework:** Cryptography, Advanced Algorithms, Penetration Testing and Ethical Hacking, Digital Forensics, Data Security, IoT Security, Non-relational Databases.
 
