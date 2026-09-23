@@ -53,7 +53,7 @@ C ★★★★★ (OpenMP, libibverbs, RDMA CM, POSIX API, glibc, pthreads, Berk
 - **Technologies:** C/C++, CUDA, libibverbs, RDMA CM InfiniBand, Linux.
 
 ## University Projects
-### Corrosion: 1” Penetration Testing Assessment (2026)
+### "Corrosion: 1” Penetration Testing Assessment (2026)
 - **GitHub:** [github.com/marianoktm/Corrosion-1-Pentest](https://github.com/marianoktm/Corrosion-1-Pentest)
 - Conducted a penetration testing assessment of the “Corrosion: 1” virtual machine following the Penetration Testing Execution Standard (PTES) methodology, covering pre-engagement, enumeration, vulnerability assessment, exploitation and post-exploitation activities.
 - **Technologies:** VirtualBox, nmap, DirBuster, wfuzz, Nessus, Metasploit, John the Ripper. 
